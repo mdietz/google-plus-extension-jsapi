@@ -1,4 +1,4 @@
-Python port of JS Google+ API
+A small chrome extension that allows for programatic creation of google+ circles.
 Author: Michael Dietz (mdietz@mdietz.org)
 
 Acknowledgements:
